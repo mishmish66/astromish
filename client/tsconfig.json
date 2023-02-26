@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "ES2015",
+        "outDir": "bin",
+        "sourceMap": true,
+        "strict": true,
+    },
+    "include": [
+        "./index.ts"
+    ]
+}
